@@ -23,7 +23,7 @@ Tämä opas näyttää vaihe vaiheelta, miten otat käyttöön FTP-yhteyden ja a
    - **Password:** (salasana)  
 4. Klikkaa **Connect**
 
-![FTP-yhteys](images/ftp-setup.png)
+![FTP-yhteys](images/ftp-login.gif)
 
 ---
 
