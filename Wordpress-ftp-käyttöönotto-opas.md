@@ -93,4 +93,4 @@ Tässä opastuksessa teit:
 ## 📩 Ota yhteyttä
 Jos tarvitset apua asennukseen, optimointiin tai verkkosivujen toteutukseen:
 
-**sipinen@gmail.fi**
+**sipinen@gmail.com**
