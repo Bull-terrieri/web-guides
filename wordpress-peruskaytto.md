@@ -24,7 +24,7 @@ Teema määrittää sivuston ulkoasun ja usein myös osan sen toiminnallisuudest
 5. Käytä **Esikatsele** nähdäksesi teeman
 6. Klikkaa **Asenna** ja sitten **Ota käyttöön**
 
-![Teeman valinta WordPressissä](images/teeman-valinta.png)
+![Teeman valinta WordPressissä](images/wp-teemahaku.gif)
 
 ### Vinkkejä teemavalintaan
 
