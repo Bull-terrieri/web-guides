@@ -48,12 +48,10 @@ Valikot auttavat sivuston käyttäjiä löytämään sisällön helposti.
 ### Uuden valikon luonti
 
 1. Avaa **Ulkoasu → Valikot**
-2. Klikkaa **Luo uusi valikko**
-3. Anna nimeksi esimerkiksi **Päävalikko**
-4. Valitse valikon sijainti (Primary Menu / Päävalikko)
-5. Lisää sivuja tai linkkejä valikkoon
-6. Järjestä kohteet vetämällä
-7. Tallenna valikko
+2. Klikkaa **Luo uusi valikko**. Anna nimeksi esimerkiksi **Päävalikko**. Valitse valikon sijainti (Primary Menu / Päävalikko).
+3. Lisää sivuja tai linkkejä valikkoon
+4. Järjestä kohteet vetämällä
+5. Tallenna valikko
 
 ![Valikon luonti](images/wp-uusivalikko.gif)
 
