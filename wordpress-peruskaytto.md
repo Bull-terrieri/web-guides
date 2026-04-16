@@ -26,6 +26,8 @@ Teema määrittää sivuston ulkoasun ja usein myös osan sen toiminnallisuudest
 
 ![Teeman valinta WordPressissä](images/wp-teemahaku.gif)
 
+![Teeman köyttöönotto WordPressissä](images/wp-ulkoasu-otakayttoon.gif)
+
 ### Vinkkejä teemavalintaan
 
 - Suosi Gutenberg-lohkoeditoria tukevia teemoja
@@ -53,13 +55,13 @@ Valikot auttavat sivuston käyttäjiä löytämään sisällön helposti.
 6. Järjestä kohteet vetämällä
 7. Tallenna valikko
 
-![Valikon luonti](images/valikon-luonti.png)
+![Valikon luonti](images/wp-uusivalikko.gif)
 
 ### Alavalikot
 
 Alavalikon saat tehtyä vetämällä valikkokohdetta hieman oikealle toisen kohteen alle.
 
-![Alavalikko](images/alavalikko.png)
+![Alavalikko](images/wp-valikkojarjestys.gif)
 
 ---
 
@@ -74,7 +76,9 @@ Perussivut ovat staattisia sivuja, kuten etusivu ja yhteystiedot.
 3. Lisää sisältö Gutenberg-lohkoeditorilla
 4. Klikkaa **Julkaise**
 
-![Sivun luonti](images/sivun-luonti.png)
+![Sivun luonti](images/wp-uusisivu.gif)
+
+![Sivun luonti](images/wp-uusisivu-editori.gif)
 
 ### Suositellut perussivut
 
@@ -93,7 +97,7 @@ Perussivut ovat staattisia sivuja, kuten etusivu ja yhteystiedot.
 3. Valitse Etusivuksi esimerkiksi *Etusivu*
 4. Valitse Artikkelisivuksi *Blogi*
 
-![Staattinen etusivu](images/staattinen-etusivu.png)
+![Staattinen etusivu](images/wp-asetukset.gif)
 
 ---
 
@@ -110,7 +114,7 @@ WordPressin blogi perustuu artikkeleihin.
    - Kategoria (esim. Blogi tai Uutiset)
 4. Klikkaa **Julkaise**
 
-![Blogiartikkeli](images/blogiartikkeli.png)
+![Blogiartikkeli](images/wp-uusiblogi.gif)
 
 ### Blogisivun määrittäminen
 
@@ -132,14 +136,3 @@ Luo itsellesi perussivusto valitsemallasi teemalla.
 - Palvelut / Tuotteet  
 - Yhteystiedot  
 
----
-
-## Lisämateriaali
-
-- WordPress käyttö – Pedanet  
-- WP-opas  
-- Zoner WordPress tuki  
-
----
-
-*Opas soveltuu toisen asteen IT‑alan opetukseen ja GitHub‑dokumentaatioksi.*
